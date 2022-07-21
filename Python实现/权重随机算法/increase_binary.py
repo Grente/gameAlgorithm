@@ -17,7 +17,6 @@
 """
 
 import random
-import pysnooper
 
 
 def binary_random(pool_data):
